@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**donald-ning/donald-ning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## About Me
+- 👋 Hi, I'm $$Ning Donald$$!
+- 🌱 I’m currently learning Rust Go React Vue
+- 💼 I’m currently working at None
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [Email](mailto:ning_donald@outlook.com)
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donald-ning&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donald-ning&layout=compact&theme=radical)
